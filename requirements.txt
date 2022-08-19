@@ -1,0 +1,6 @@
+pillow
+pyttsx3
+tkcalender
+wikipedia
+google-search
+beautifulsoup4
